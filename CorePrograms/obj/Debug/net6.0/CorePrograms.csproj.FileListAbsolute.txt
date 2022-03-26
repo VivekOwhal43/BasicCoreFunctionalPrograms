@@ -1,0 +1,15 @@
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/bin/Debug/net6.0/CorePrograms
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/bin/Debug/net6.0/CorePrograms.deps.json
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/bin/Debug/net6.0/CorePrograms.runtimeconfig.json
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/bin/Debug/net6.0/CorePrograms.dll
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/bin/Debug/net6.0/ref/CorePrograms.dll
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/bin/Debug/net6.0/CorePrograms.pdb
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/CorePrograms.csproj.AssemblyReference.cache
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/CorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/CorePrograms.AssemblyInfoInputs.cache
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/CorePrograms.AssemblyInfo.cs
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/CorePrograms.csproj.CoreCompileInputs.cache
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/CorePrograms.dll
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/ref/CorePrograms.dll
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/CorePrograms.pdb
+/home/vivek/bridgelabz/Day-5/BasicCoreFunctionalPrograms/CorePrograms/obj/Debug/net6.0/CorePrograms.genruntimeconfig.cache
