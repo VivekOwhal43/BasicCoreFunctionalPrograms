@@ -35,7 +35,12 @@ namespace CorePrograms
                      LeapYear leapYear = new LeapYear();
                      leapYear.acceptYear();
                      leapYear.checkIfLeapOrNot();
-                    
+                break;
+
+                case 5:
+                     PowerOfTwo powerOfTwo = new PowerOfTwo();
+                     powerOfTwo.getPoewrNumber();
+                     powerOfTwo.calculatePower();
                 break;
                 
                 default:
