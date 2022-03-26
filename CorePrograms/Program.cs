@@ -30,6 +30,14 @@ namespace CorePrograms
                     EvenOdd evenOdd = new EvenOdd();
                     evenOdd.getEvenOddNumber();
                 break;
+
+                case 4:
+                     LeapYear leapYear = new LeapYear();
+                     leapYear.acceptYear();
+                     leapYear.checkIfLeapOrNot();
+                    
+                break;
+                
                 default:
                     Console.WriteLine("Enter Correct Details: ");
                 break;
