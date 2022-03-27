@@ -8,6 +8,8 @@ namespace CorePrograms
         {
             int choice;
             Console.WriteLine("Enter Your choice");
+            Console.WriteLine("\n1.Flip A Coin \n2.Quotient And Remainder \n3.Check a Number is Even or Odd \n4. Find if Year is Leap Year or not. \n5.Calculate Power of Two");
+            Console.WriteLine("6.Check Entered character is Consonent or Vowel \n7.Calculate Harmonic Value till Entered Number");
             choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -48,6 +50,12 @@ namespace CorePrograms
                      consonentVowelDetect.getChar();
                      consonentVowelDetect.checkConsonentOrVowel();
                 break;
+
+                case 7:
+                    HarmonicNumber harmonicNumber = new HarmonicNumber();
+                    harmonicNumber.getHarmonicNumber();
+                    //Console.WriteLine($"{harmonic}");
+                break; 
                 
                 default:
                     Console.WriteLine("Enter Correct Details: ");
