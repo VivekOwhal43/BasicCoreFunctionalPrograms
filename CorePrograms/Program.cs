@@ -10,6 +10,7 @@ namespace CorePrograms
             Console.WriteLine("Enter Your choice");
             Console.WriteLine("\n1.Flip A Coin \n2.Quotient And Remainder \n3.Check a Number is Even or Odd \n4. Find if Year is Leap Year or not. \n5.Calculate Power of Two");
             Console.WriteLine("6.Check Entered character is Consonent or Vowel \n7.Calculate Harmonic Value till Entered Number \n8.Find Largest Amoung Three Numbers");
+            Console.WriteLine("9.Swap Two Numbers \n10.Prime Factors of a number");
             choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -61,7 +62,13 @@ namespace CorePrograms
                     LargestOfThree largestOfThree = new LargestOfThree();
                     largestOfThree.getNumbers();
                     largestOfThree.compareNumbers();
-                break; 
+                break;
+
+                case 9:
+                     SwapTwoNumbers swapTwoNumbers = new SwapTwoNumbers();
+                     swapTwoNumbers.acceptNumber();
+                     swapTwoNumbers.swapNumbers();
+                break;
                 
                 default:
                     Console.WriteLine("Enter Correct Details: ");
