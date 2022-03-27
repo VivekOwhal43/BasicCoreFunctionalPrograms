@@ -9,7 +9,7 @@ namespace CorePrograms
             int choice;
             Console.WriteLine("Enter Your choice");
             Console.WriteLine("\n1.Flip A Coin \n2.Quotient And Remainder \n3.Check a Number is Even or Odd \n4. Find if Year is Leap Year or not. \n5.Calculate Power of Two");
-            Console.WriteLine("6.Check Entered character is Consonent or Vowel \n7.Calculate Harmonic Value till Entered Number");
+            Console.WriteLine("6.Check Entered character is Consonent or Vowel \n7.Calculate Harmonic Value till Entered Number \n8.Find Largest Amoung Three Numbers");
             choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -55,6 +55,12 @@ namespace CorePrograms
                     HarmonicNumber harmonicNumber = new HarmonicNumber();
                     harmonicNumber.getHarmonicNumber();
                     //Console.WriteLine($"{harmonic}");
+                break;
+
+                case 8:
+                    LargestOfThree largestOfThree = new LargestOfThree();
+                    largestOfThree.getNumbers();
+                    largestOfThree.compareNumbers();
                 break; 
                 
                 default:

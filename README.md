@@ -1,6 +1,6 @@
 # BasicCoreFunctionalPrograms
 This repository consosts the  solution of Basic Logocal Problem statement given for day 5 #bridgelabz
-Following programs are available in this repository :
+Following programs are available in this repository :<br/>
 1.Flip A Coin <br/>
 2.Quotient And Remainder <br/>
 3.Check a Number is Even or Odd <br/>
@@ -10,4 +10,4 @@ Following programs are available in this repository :
 7.Calculate Harmonic Value till Entered Number <br/>
 8.Prime Factors of a Number <br/>
 9.Largest Amoung Three Number <br/>
-10. Swap two Numbers <br/>
+10. Swap two Numbers <br
