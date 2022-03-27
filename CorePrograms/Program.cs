@@ -42,6 +42,12 @@ namespace CorePrograms
                      powerOfTwo.getPoewrNumber();
                      powerOfTwo.calculatePower();
                 break;
+
+                case 6:
+                     ConsonentVowelDetect consonentVowelDetect = new ConsonentVowelDetect();
+                     consonentVowelDetect.getChar();
+                     consonentVowelDetect.checkConsonentOrVowel();
+                break;
                 
                 default:
                     Console.WriteLine("Enter Correct Details: ");
